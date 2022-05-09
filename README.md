@@ -1,9 +1,11 @@
-<h1> 
+<h1 align="center"> 
   <👨‍💻>Hello World<👨‍💻>
 </h1>
+<br/>
+<br/>
 
 - I'm a **Front-end Web Developer**.
-- I'm on the way to be a **Back-end Developer**
+- I'm on the way to be a **Back-end Developer**.
 - I’m currently learning
 <br/>
 <br/>
