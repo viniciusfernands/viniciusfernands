@@ -58,5 +58,5 @@
     
 ## 📟 GitHub Stats
     
-<img src="https://github-readme-stats.vercel.app/api?username=viniciusfernands&theme=dracula"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusfernands&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=viniciusfernands&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfernands&langs_count=8&layout=compact&theme=github_dark&hide_border=true" height="192px"/>
