@@ -101,6 +101,6 @@
     
 <div>
   <a href="https://github.com/viniciusfernands">
-  <img height="100rem" src="https://github-readme-stats.vercel.app/api?username=viniciusfernands&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
-  <img height="100rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfernands&langs_count=10&count_private=true&theme=github_dark&layout=compact&hide_border=true"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=viniciusfernands&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfernands&langs_count=10&count_private=true&theme=github_dark&layout=compact&hide_border=true"/>
 </div>
